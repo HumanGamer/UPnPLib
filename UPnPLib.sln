@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPnPLib", "UPnPLib\UPnPLib.csproj", "{C98A0632-D375-4D30-BC70-8F196B1C4D15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPnPTester", "UPnPTester\UPnPTester.csproj", "{F8D3ED5B-5DD6-45FE-AE05-BEFD49BC3FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C98A0632-D375-4D30-BC70-8F196B1C4D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C98A0632-D375-4D30-BC70-8F196B1C4D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C98A0632-D375-4D30-BC70-8F196B1C4D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D3ED5B-5DD6-45FE-AE05-BEFD49BC3FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D3ED5B-5DD6-45FE-AE05-BEFD49BC3FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D3ED5B-5DD6-45FE-AE05-BEFD49BC3FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D3ED5B-5DD6-45FE-AE05-BEFD49BC3FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
